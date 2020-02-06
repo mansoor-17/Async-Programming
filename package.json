@@ -1,0 +1,22 @@
+{
+  "name": "async-prog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mansoor-17/Async-Programming.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mansoor-17/Async-Programming/issues"
+  },
+  "homepage": "https://github.com/mansoor-17/Async-Programming#readme",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
